@@ -1,7 +1,7 @@
 function user() {
   return (
     <div>
-      user
+      user1
     </div>
   )
 }
